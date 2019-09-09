@@ -1,1 +1,1 @@
-# garbage_classify-HuaWei_AI-
+# garbage_classify-HuaWei_AI
